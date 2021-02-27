@@ -13,6 +13,8 @@ target/
 .springBeans
 .sts4-cache
 
+run_sonar.sh
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
